@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BraiLearn</string>
+    <string name="patrones">A:100000 B:101000 C:110000 D:110100 E:100100 F:111000 G:111100 H:101100 I:011000 J:011100 K:100010 L:101010 M:110010 N:110110 O:100110 P:111010 Q:111110 R:101110 S:011010 T:011110 U:100011 V:101011 W:011101 X:110011 Y:110111 Z:100111</string>
+    <string name="Bienvenido">BIENVENIDO A BRAILEARN!</string>
+    <string name="Vamos">VAMOS ALLÁ!</string>
+    <string name="Juego">JUGAMOS?</string>
+    <string name="Porque">POR QUÉ BRAILEARN?</string>
+    <string name="Facil">FÁCIL</string>
+    <string name="Medio">MEDIO</string>
+    <string name="Dificl">DIFÍCIL</string>
+    <string name="Dificultad">ELIGE EL NIVEL DE DIFICULTAD</string>
+    <string name="Done">Done</string>
+    <string name="Aprender">¿QUÉ APRENDEMOS HOY?</string>
+    <string name="por_que_braille">¡Descubre el mundo del Braille y despierta tus sentidos!\n\nAprender el lenguaje del Braille es un viaje fascinante hacia la comunicación táctil y la inclusión. Este sistema de lectura y escritura táctil, desarrollado por Louis Braille, abre un universo de posibilidades para las personas con discapacidad visual, permitiéndoles acceder a la información, la literatura y la educación de una manera única.\n\nSumérgete en las delicadas texturas y sutiles relieves que conforman el Braille y experimenta cómo cada célula braille se convierte en una ventana hacia un mundo lleno de conocimiento. A medida que tus dedos recorren las combinaciones de puntos en relieve, descubrirás la magia de la lectura táctil, donde las palabras cobran vida y las historias se despliegan en tus manos.\n\nAprender el lenguaje del Braille no solo te permitirá acceder a un nuevo sistema de lectura y escritura, sino que también te brindará la oportunidad de conectar con una comunidad global de personas que utilizan el Braille como su herramienta de comunicación. Serás parte de una red solidaria que valora y promueve la inclusión, la independencia y la igualdad de oportunidades.\n\nDesafía tus sentidos y amplía tus horizontes. Aprender el lenguaje del Braille te abrirá puertas a nuevas experiencias, oportunidades educativas y culturales. Podrás explorar libros, revistas, partituras musicales y más, sumergiéndote en la riqueza de la literatura y el conocimiento.\n\nEl lenguaje del Braille es una poderosa herramienta que desafía las barreras y fomenta la autonomía de las personas con discapacidad visual. Aprenderlo es un acto de empoderamiento, un paso hacia la igualdad de oportunidades y una contribución al enriquecimiento de nuestra sociedad.\n\n¡Anímate a aprender el lenguaje del Braille y descubre un mundo de posibilidades que esperan ser exploradas con tus manos!</string>
+</resources>

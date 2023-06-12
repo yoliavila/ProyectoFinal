@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="A">A:100000</string>
+    <string name="B">B:101000</string>
+    <string name="C">C:110000</string>
+    <string name="D">D:110100</string>
+    <string name="E">E:100100</string>
+    <string name="F">F:111000</string>
+    <string name="G">G:111100</string>
+    <string name="H">H:101100</string>
+    <string name="I">I:011000</string>
+    <string name="J">J:011100</string>
+    <string name="K">K:100010</string>
+    <string name="L">L:101010</string>
+    <string name="M">M:110010</string>
+    <string name="N">N:110110</string>
+    <string name="O">O:100110</string>
+    <string name="P">P:111010</string>
+    <string name="Q">Q:111110</string>
+    <string name="R">R:101110</string>
+    <string name="S">S:011010</string>
+    <string name="T">T:011110</string>
+    <string name="U">U:100011</string>
+    <string name="V">V:101011</string>
+    <string name="W">W:01101</string>
+    <string name="X">X:110011</string>
+    <string name="Y">Y:110111</string>
+    <string name="Z">Z:100111</string>
+</resources>
